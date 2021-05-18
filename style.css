@@ -1,0 +1,68 @@
+.Intro{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border-style: solid;
+    padding: 4cm;
+    background-color: rgb(145, 33, 66);
+    border-width: 1cm;
+    border-color: rgb(0, 0, 0);
+}
+.image{
+    border-style: solid;
+    border-width: 0.5cm;
+    border-radius: 1cm;
+}
+#youtube{
+    width:5cm;
+    height:10cm
+}
+.mydances{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+    flex-basis: 100%;
+    border-style: solid;
+    background-color: rgb(255, 169, 169);
+    font-style: italic;
+    color: rgb(0, 0, 0);
+}
+.dance{
+    flex-basis: 25%;
+   margin: 1cm;
+   margin-left: 2.2cm;
+}
+#title{
+    color: rgb(0, 0, 0);
+   
+}
+.dance1{
+    border-style: solid;
+    margin-top: 1cm;
+    background-color: rgb(255, 230, 89);
+}
+.dance2{
+    border-style: solid;
+    padding: 1cm;
+    background-color: rgb(255, 230, 89);
+}
+.dance3{
+    border-style: solid;
+    padding: 1cm;
+    background-color: rgb(255, 230, 89);
+}
+.dance4{
+    border-style: solid;
+    padding: 1cm;
+    background-color: rgb(255, 230, 89);
+}
+.dance5{
+    border-style: solid;
+    padding: 1cm;
+    background-color: rgb(255, 230, 89);
+}
+.dance6{
+    border-style: solid;
+    padding: 1cm;
+    background-color: rgb(255, 230, 89);
+}
